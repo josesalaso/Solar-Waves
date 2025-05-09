@@ -1,1 +1,0 @@
-Solar waves prediction using physics formulas and the data obatsined for the satelites of Nasa
